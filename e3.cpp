@@ -1,10 +1,12 @@
 #include <iostream>
-#include <fstream>
-
+#include <string>
+#include "Fileh.h"
+#include "Arguments.h"
 using namespace std;
 
-int main(int argc, char* argv[]) {
 
-  cout << "hello world!" << endl;
+
+int main (int argc, char* argv[]) {
+
   return 0;
 }
